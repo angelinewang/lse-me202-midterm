@@ -273,18 +273,18 @@ facilitating flow of information and support.
   tell us about the nature of sociality across the three social support
   network types?
 
-The Help Decision network has the highest reciprocity, suggesting that
+The Kerorice network has the highest reciprocity, suggesting that
 reciprocal support is most common in this network. On the other hand,
-the Kerorice Network has the lowest reciprocity, showing that less
+the Help Decision Network has the lowest reciprocity, showing that less
 mutual support exist in decision-making contexts.
 
-Furthermore, the Help Decision network also has the highest
-transitivity, showing that individuals who support each other are also
-likely to support the same people, forming tightly-knit groups. The
-Kerorice Network has the lowest transitivity, indicating fewer closed
-triads and possibly more dispersed support.
+Furthermore, the Kerorice network also has the highest transitivity,
+showing that individuals who support each other are also likely to
+support the same people, forming tightly-knit groups. The Help Decision
+Network has the lowest transitivity, indicating fewer closed triads and
+possibly more dispersed support.
 
-For assortativity by caste, the Kerorice network has the highest
+For assortativity by caste, the Help Decision network has the highest
 assortativity by caste, indicating that support in decision-making is
 highly influenced by caste. And the Visit network has the lowest
 assortativity by caste, showing more cross-caste interactions in visit
@@ -294,26 +294,26 @@ social divisions and preferences for intra-casete interactions.
 
 For assortativity by gender, the Visit network has the highest
 assortativity by gender, showing strong gender-based support patterns.
-Help Decision network also indicates strong gender-based segregation.
-While in the Kerorice network, there was the lowest assortativity by
+Kerorice network also indicates strong gender-based segregation. While
+in the Help Decision network, there was the lowest assortativity by
 gender, showing gender played a less significant role in decision-making
 support.
 
-For assortativity by education, the Kerorice network has the highest
-assortativity by education, indicating that education plays a more
-significant role in decision-making support here. The Help Decision
+For assortativity by education, the Help Decision network has the
+highest assortativity by education, indicating that education plays a
+more significant role in decision-making support here. The Kerorice
 network has the lowest assortativity by education, showing that
-education is less influential in help decision support. Overall, there
-is very low assortativity by education across all networks, which
-suggests that education does not play a significant role in determining
-support relationships.
+education is less influential in this type of support. Overall, there is
+very low assortativity by education across all networks, which suggests
+that education does not play a significant role in determining support
+relationships.
 
-Overall, in the Kerorice Support network, there is strong caste-based
+Overall, in the Help Decision network, there is strong caste-based
 preferences and less mutual exchange, which could be showing traditional
 hierarchical support systems. In the Visit Support network, it was more
 interconnected and reciprocal, but highly gender-segregated, showing
 social visits are more communal, but still influenced by gender norms.
-And the Help Decision support network showed to be highly reciprocal and
+And the Kerorice support network showed to be highly reciprocal and
 clustered, showing collaborative decision-making within tight groups,
 with significant gender and caste influences.
 
